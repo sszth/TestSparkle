@@ -1,0 +1,23 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>TestUpdate</title>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.2</title>
+      <sparkle:version>2.2</sparkle:version>
+      <link>https://sparkle-project.org</link>
+      <sparkle:channel>automatic</sparkle:channel>
+      <sparkle:fullReleaseNotesLink>releasenotes.html</sparkle:fullReleaseNotesLink>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+      <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" length="1950989" type="application/octet-stream" sparkle:edSignature="ZYcv8u4ESjf2HC0LoH6GPudsdZB0Bq2OgKWSdCpU8sQ9M7NAmag+SPvUcDOQX4pjaz+1TmkOtk9HNaSrSdpKAA=="/>
+    </item>
+  </channel>
+</rss>
