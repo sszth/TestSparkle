@@ -6,10 +6,10 @@
             <title>1.0.0</title>
             <pubDate>Fri, 08 Nov 2024 14:38:54 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate_2.0.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate_2.0.0.zip" length="924365" type="application/octet-stream" sparkle:edSignature="Z3vxA5CgnoYvNxEBi3kGK/tm8mxjwYchg3Ik4lQWovlDZOzjKpMb6s8YZMgJ5QF5q4vovvpjEKFsg8yuIQaJAw=="/>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate_2.0.0.zip" length="924361" type="application/octet-stream" sparkle:edSignature="qqbAjE8vsCrv4RH66eFor8bUSveH82/Qs0ah0M1SLHMkqFv9E2w/7lLBipy7INca8xnOCpsq/ZvYQCNkW5ajCw=="/>
         </item>
     </channel>
 </rss>
