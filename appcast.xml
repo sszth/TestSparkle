@@ -8,8 +8,8 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/sszth/TestSparkle/blob/main/TestUpdate_2.0.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/sszth/TestSparkle/blob/main/TestUpdate_2.0.0.zip" length="924275" type="application/octet-stream" sparkle:edSignature="FEZu1zAgDg8KIgRIxiA/YhqR96segt+QnNWJIcgtP3o8y149kYo/YR5BpxaiO4DE+DyxSPuHNbtXVFNqSE8hCA=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate_2.0.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate_2.0.0.zip" length="924275" type="application/octet-stream" sparkle:edSignature="FEZu1zAgDg8KIgRIxiA/YhqR96segt+QnNWJIcgtP3o8y149kYo/YR5BpxaiO4DE+DyxSPuHNbtXVFNqSE8hCA=="/>
         </item>
     </channel>
 </rss>
