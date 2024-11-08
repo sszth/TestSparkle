@@ -6,10 +6,10 @@
             <title>5</title>
             <pubDate>Fri, 08 Nov 2024 14:50:32 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>5</sparkle:shortVersionString>
+            <sparkle:shortVersionString>6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate.html</sparkle:releaseNotesLink>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate.zip" length="924355" type="application/octet-stream" sparkle:edSignature="rlVnR+G1BmvpkZOH6nKlknUVJ2WKSUfB2DNrHNrqSaL0MAbL6VWJy8tonK30CddBgdzfwtIVJ9oGYjpmcv4GBw=="/>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate.zip" length="924296" type="application/octet-stream" sparkle:edSignature="Zz4yyku6V1sdToBccZWkXzIrToQrhKvvR3jP5wdaeYDjrlQMCAMIkXzfN8Dy0hGco5R8YDxq4eL+WlLnG818Dw=="/>
         </item>
     </channel>
 </rss>
