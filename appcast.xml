@@ -3,11 +3,11 @@
     <channel>
         <title>TestUpdate</title>
         <item>
-            <title>5</title>
+            <title>TestUpdate</title>
             <pubDate>Fri, 08 Nov 2024 14:50:32 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>10.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate2.html</sparkle:releaseNotesLink>
             <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate2.zip" length="918489" type="application/octet-stream" sparkle:edSignature="kb6C+2zGiJ8ZMFQl6Te7qKhZfjDni/rk1Wisrogbg5p8Wkom7Puao3x2UOoitoCLF+uS5LRTTQ1z5BKMFxUECQ=="/>
         </item>
