@@ -5,7 +5,7 @@
         <item>
             <title>TestUpdate</title>
             <pubDate>Fri, 08 Nov 2024 14:50:32 +0800</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.5</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate2.html</sparkle:releaseNotesLink>
