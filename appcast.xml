@@ -6,7 +6,7 @@
             <title>1</title>
             <pubDate>Fri, 08 Nov 2024 16:25:46 +0800</pubDate>
             <sparkle:version>2024.7.10</sparkle:version>
-            <sparkle:shortVersionString>1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>2024.7.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate2_1.0.zip" length="918336" type="application/octet-stream" sparkle:edSignature="eRhG+hqdm+SDy3ualMgCXgOtdSNBZ3TlslGj9KIhMceSB0CDaq2AUJ9Kckgyh1B7Wx1TajUrpvEaokaLFHb2Cw=="/>
             <sparkle:deltas>
@@ -17,7 +17,7 @@
             <title>2</title>
             <pubDate>Fri, 08 Nov 2024 16:27:20 +0800</pubDate>
             <sparkle:version>2024.8.10</sparkle:version>
-            <sparkle:shortVersionString>2</sparkle:shortVersionString>
+            <sparkle:shortVersionString>2024.8.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/TestUpdate2_2.0.zip" length="918340" type="application/octet-stream" sparkle:edSignature="E9fUwVBplQR9wGYczvv2hmJ5lgX9l/6h5BVjxErHtFN7l9h/sZGA3276VpbCyh3tm2eBUK3q2Xp6B98i2OLrCQ=="/>
         </item>
