@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EaseUS Partition Master</title>
+        <item>
+            <title>EaseUS Partition Master</title>
+            <pubDate>Fri, 08 Nov 2024 16:25:46 +0800</pubDate>
+            <sparkle:version>202412018</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/EaseUS Partition Master.zip" length="918336" type="application/octet-stream" sparkle:edSignature="eRhG+hqdm+SDy3ualMgCXgOtdSNBZ3TlslGj9KIhMceSB0CDaq2AUJ9Kckgyh1B7Wx1TajUrpvEaokaLFHb2Cw=="/>
+        </item>
+        <item>
+            <title>EaseUS Partition Master</title>
+            <pubDate>Fri, 08 Nov 2024 16:27:20 +0800</pubDate>
+            <sparkle:version>202412019</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/EaseUS Partition Master.zip" length="80601807" type="application/octet-stream" sparkle:edSignature="2CxN4DKDCr/BCLb9Hhk/WMA4LQC37Gj8hlovKLZz6EisaWi7I8LkuZVG4/g/ppZxfbXdRjlQjJAqkqzX6NVgCg=="/>
+        </item>
+    </channel>
+</rss>
