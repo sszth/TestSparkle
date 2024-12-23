@@ -1,25 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Sparkle Test App</title>
+        <title>EaseUS Partition Master</title>
         <item>
-            <title>9.5.1</title>
-            <pubDate>Mon, 23 Dec 2024 13:56:33 +0800</pubDate>
-            <sparkle:version>6666</sparkle:version>
-            <sparkle:shortVersionString>9.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update_2_signed.zip" length="1981143" type="application/octet-stream"/>
+            <title>1.9</title>
+            <pubDate>Mon, 23 Dec 2024 14:13:57 +0800</pubDate>
+            <sparkle:version>20251212</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update_1.zip" length="872274" type="application/octet-stream" sparkle:edSignature="CkELQpl5cst5LI6ew4tzq30mroUAqe5mBB39eJ6Ehvjcr/XWaWLx4yCCfAflgWKusj7uOzuoL3XfRYYNOquJBA=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/Sparkle%20Test%20App6666-1666.delta" sparkle:deltaFrom="1666" length="7474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="854720" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="TilyamZLo9L7tdea27KwOp+PvObH8v0cLMw/86S7fcwzidzD1jbouQzMln5zMApmCHLXSiBzLKremm2eN6WtBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/EaseUS%20Partition%20Master20251212-20241202.delta" sparkle:deltaFrom="20241202" length="1090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="854528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7RaIcuWH2AD4po7qGlNxko2r8fLvAEqbcgPqvpIfc/Axl568vgyUfpfPH+gSrGgUJCe3cbBr2ADjVTeASemUBQ=="/>
             </sparkle:deltas>
         </item>
         <item>
-            <title>1.5.1</title>
-            <pubDate>Mon, 23 Dec 2024 13:55:37 +0800</pubDate>
-            <sparkle:version>1666</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update_1_signed.zip" length="1981155" type="application/octet-stream"/>
+            <title>9.9</title>
+            <pubDate>Mon, 23 Dec 2024 14:13:21 +0800</pubDate>
+            <sparkle:version>20241202</sparkle:version>
+            <sparkle:shortVersionString>9.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update_2.zip" length="872276" type="application/octet-stream" sparkle:edSignature="qBnxpPjofGGLGXCIwUq9nSOIsXN02hVxPmCeYCrhc+Kgc1Ak4yxf6frmJJ5GbnN9bmkMqKSi9yvTq7mYZDZsAA=="/>
         </item>
     </channel>
 </rss>
