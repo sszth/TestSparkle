@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>macepm</title>
+        <title>EaseUS Partition Master</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Fri, 20 Dec 2024 16:25:45 +0800</pubDate>
-            <sparkle:version>20241220</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/macepm.zip" length="865477" type="application/octet-stream" sparkle:edSignature="2qxH7LFylMmV3CiaWVS4N8vE+Bant9mDafNOCYBXv1YPDzcHgTvghWRInxPyC7/dWihAzX29yrYFqIPuZmF8CA=="/>
+            <title>2.5.0</title>
+            <pubDate>Mon, 23 Dec 2024 10:12:24 +0800</pubDate>
+            <sparkle:version>20251201</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/update.zip" length="73645652" type="application/octet-stream" sparkle:edSignature="aksf6UdvF4vk/7wCe5sFOOnkv+avLOgiO0S/qiKqVEYOdclOfEJvh9wsT9IuAz6+SdYbfq3iyg5+XcJlPPLcBQ=="/>
         </item>
     </channel>
 </rss>
