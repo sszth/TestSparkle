@@ -3,12 +3,23 @@
     <channel>
         <title>Sparkle Test App</title>
         <item>
-            <title>10.5.1</title>
-            <pubDate>Mon, 23 Dec 2024 11:20:34 +0800</pubDate>
+            <title>9.5.1</title>
+            <pubDate>Mon, 23 Dec 2024 13:56:33 +0800</pubDate>
             <sparkle:version>6666</sparkle:version>
             <sparkle:shortVersionString>9.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update.zip" length="1823818" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update_2_signed.zip" length="1981143" type="application/octet-stream"/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/Sparkle%20Test%20App6666-1666.delta" sparkle:deltaFrom="1666" length="7474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="854720" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="TilyamZLo9L7tdea27KwOp+PvObH8v0cLMw/86S7fcwzidzD1jbouQzMln5zMApmCHLXSiBzLKremm2eN6WtBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.5.1</title>
+            <pubDate>Mon, 23 Dec 2024 13:55:37 +0800</pubDate>
+            <sparkle:version>1666</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update_1_signed.zip" length="1981155" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
