@@ -3,12 +3,12 @@
     <channel>
         <title>EaseUS Partition Master</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Tue, 24 Dec 2024 13:28:32 +0800</pubDate>
-            <sparkle:version>202400828</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/update.zip" length="4553229" type="application/octet-stream" sparkle:edSignature="8YSzVhkK/n4mempfYxFACw+V/2tcTX3tTwiAwC/E8xeSVeCwHuCZFew8xTckzGLAEcNwH6BN/8/Gu/N9MDEhBw=="/>
+            <title>9.9.9</title>
+            <pubDate>Tue, 24 Dec 2024 14:56:50 +0800</pubDate>
+            <sparkle:version>20211212</sparkle:version>
+            <sparkle:shortVersionString>9.9.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sszth/TestSparkle/main/test/update.zip" length="32329" type="application/octet-stream" sparkle:edSignature="ENajgVPGkeamJr3JEoHOlhaMnamy9CNnHQA7dTRv6VjEUg7Q489aZGb8PdcbOWWFyZqIXnAJA+mHyWIyKfHmCQ=="/>
         </item>
     </channel>
 </rss>
